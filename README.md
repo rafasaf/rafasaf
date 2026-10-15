@@ -68,11 +68,10 @@ I'm a Computer Science student at the **Federal University of Minas Gerais (UFMG
 
 ## 📫 Let's Connect
 
-I'm open to **junior Software Engineer / Backend Engineer** opportunities and technical collaborations.
+I'm open to **Software Engineer / Backend Engineer** opportunities and technical collaborations.
 
-- 💼 **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/)
-- 🧑‍💻 **GitHub:** [Add your GitHub profile](https://github.com/)
-- ✉️ **Email:** Add your professional email address
+- 💼 **LinkedIn:** [Rafaela Alexandre](https://www.linkedin.com/in/rafaela-fs-alexandre/)
+- 🧑‍💻 **GitHub:** [rafasaf](https://github.com/rafasaf/rafasaf/edit/main/README.md)
 
 ---
 
